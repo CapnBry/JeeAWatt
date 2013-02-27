@@ -1,0 +1,7 @@
+Debug
+Release
+Visual Micro
+ipch
+*.sdf
+*.suo
+*.user
